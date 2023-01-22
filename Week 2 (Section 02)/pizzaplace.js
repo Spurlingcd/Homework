@@ -17,10 +17,10 @@ if (numberOfToppings < 10) {
 //Construct an if statement that prints "Quality, not quantity." if you offer less than 10 toppings, or "A whole lot of pizza." if you offer 10 or more toppings.
 //Add, commit, and push your JS file to your GitHub repo.
 //Send your TA a link to your GitHub Homework repo when finished.
+;
 
-
-for (let counter = 0; counter < numberOfToppings; counter += 2 )
-{
+for (let counter = 1; counter  <= numberOfToppings; counter ++ )
+ if ((counter%2 == 0)) {
   console.log(counter);
 }
 //Use a loop to print all of the even numbers from 1 to numberOfToppings (or 10)
