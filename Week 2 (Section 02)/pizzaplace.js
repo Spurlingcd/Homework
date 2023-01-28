@@ -19,8 +19,8 @@ if (numberOfToppings < 10) {
 //Send your TA a link to your GitHub Homework repo when finished.
 ;
 
-for (let counter = 1; counter  <= numberOfToppings; counter ++ )
- if ((counter%2 == 0)) {
+for (let counter = 1; counter <= numberOfToppings; counter ++ )
+ if ((counter%2 === 0)) {
   console.log(counter);
 }
 //Use a loop to print all of the even numbers from 1 to numberOfToppings (or 10)
