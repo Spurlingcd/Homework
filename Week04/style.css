@@ -1,0 +1,35 @@
+ 
+
+ main {
+border: 2px dotted black;
+  padding: 5px;
+  margin: 40px;
+}
+
+P {
+    font-size: larger;
+}
+.Uses{
+    color: darkblue;
+
+#Heading{
+   color: darkblue;
+   font-style: oblique;
+   font-size: x-large;
+}
+ul{
+    color: blue
+}
+
+main li{
+    font-weight: lighter;
+}
+li {
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+}
+* {
+    background-color: azure;
+}
