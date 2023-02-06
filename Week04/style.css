@@ -7,10 +7,11 @@ border: 2px dotted black;
 }
 
 P {
-    font-size: larger;
+    font-weight:bold;
 }
 .Uses{
     color: darkblue;
+}
 
 #Heading{
    color: darkblue;
@@ -18,7 +19,7 @@ P {
    font-size: x-large;
 }
 ul{
-    color: blue
+    color: blue;
 }
 
 main li{
