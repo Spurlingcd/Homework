@@ -1205,4 +1205,4 @@ let user9ToDos= toDos.filter(item => item.userId === 9);
 console.log(user9ToDos);
 // then find the number of user 9's incomplete tasks
 let user9Incomplete= user9ToDos.filter((item) => item.completed == false)
-console.log(user9Incomplete);
+console.log(user9Incomplete.length);

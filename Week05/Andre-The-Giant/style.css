@@ -22,26 +22,40 @@ img {
 
 }
 
+
 div {
   border: 2px solid burlywood;
-  margin: 40px;
+  margin: 50px 30px;
+  padding: 50px 30px;
 }
 
 #introPic {
   float: right;
+
 }
 
+
+
 #bio {
-  float: right;
+  float: inline-start;
 }
-#bio > ul {
-  padding: 2px;
-  margin: 10px;
+
+
+
+ .bio > ul {
+  padding: 20px;
+  margin: 30px;
+  list-style-type: none;
 
 }
 img > #earlyCareer{
   margin-right: 10px;
   margin-bottom: 30px;
+}
+
+#top > div{
+padding-bottom: 30px;
+padding-right: 10px;
 }
 
 
@@ -50,7 +64,7 @@ img > #proCareer{
   margin-bottom:20px
 }
 #bio > li {
-  padding: 2px;
+  padding: 5px;
 }
 
 #pro {

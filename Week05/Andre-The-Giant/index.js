@@ -1,1 +1,1 @@
-document.querySelector('html').
+document.querySelector('html')
